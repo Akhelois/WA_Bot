@@ -6,9 +6,9 @@
 ```bash
 git clone https://github.com/yourusername/testbot.git
 cd testbot
-
+````
 ## Structure
-
+```bash
 TestBot/
 ├── api/
 │   ├── send_message.php
@@ -35,3 +35,4 @@ TestBot/
 ├── index.php
 ├── test.php
 └── README.md
+```
