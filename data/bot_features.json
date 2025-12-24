@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "bot_id": 1,
+        "feature_key": "downloader",
+        "feature_name": "Downloader",
+        "enabled": true,
+        "created_at": "2025-12-22 21:01:35",
+        "updated_at": "2025-12-22 21:01:35"
+    },
+    {
+        "id": 2,
+        "bot_id": 1,
+        "feature_key": "sticker",
+        "feature_name": "Sticker Maker",
+        "enabled": true,
+        "created_at": "2025-12-22 21:01:35",
+        "updated_at": "2025-12-22 21:01:35"
+    },
+    {
+        "id": 3,
+        "bot_id": 1,
+        "feature_key": "group_management",
+        "feature_name": "Group Management",
+        "enabled": true,
+        "created_at": "2025-12-22 21:01:35",
+        "updated_at": "2025-12-22 21:01:35"
+    },
+    {
+        "id": 4,
+        "bot_id": 1,
+        "feature_key": "auto_reply",
+        "feature_name": "Auto Reply",
+        "enabled": true,
+        "created_at": "2025-12-22 21:01:35",
+        "updated_at": "2025-12-22 21:01:35"
+    },
+    {
+        "id": 5,
+        "bot_id": 1,
+        "feature_key": "welcome_message",
+        "feature_name": "Welcome Message",
+        "enabled": true,
+        "created_at": "2025-12-22 21:01:35",
+        "updated_at": "2025-12-22 21:01:35"
+    },
+    {
+        "id": 6,
+        "bot_id": 1,
+        "feature_key": "antilink",
+        "feature_name": "Anti Link",
+        "enabled": false,
+        "created_at": "2025-12-22 21:01:35",
+        "updated_at": "2025-12-22 21:01:35"
+    },
+    {
+        "id": 7,
+        "bot_id": 1,
+        "feature_key": "games",
+        "feature_name": "Games",
+        "enabled": false,
+        "created_at": "2025-12-22 21:01:35",
+        "updated_at": "2025-12-24 19:58:30"
+    },
+    {
+        "id": 8,
+        "bot_id": 1,
+        "feature_key": "ai_chat",
+        "feature_name": "AI Chatbot",
+        "enabled": true,
+        "created_at": "2025-12-22 21:01:35",
+        "updated_at": "2025-12-22 21:01:35"
+    },
+    {
+        "id": 9,
+        "bot_id": 1,
+        "feature_key": "search",
+        "feature_name": "Search Engine",
+        "enabled": true,
+        "created_at": "2025-12-22 21:01:35",
+        "updated_at": "2025-12-22 21:01:35"
+    },
+    {
+        "id": 10,
+        "bot_id": 1,
+        "feature_key": "quotes",
+        "feature_name": "Quotes Generator",
+        "enabled": false,
+        "created_at": "2025-12-22 21:01:35",
+        "updated_at": "2025-12-24 19:58:27"
+    }
+]

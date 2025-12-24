@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "name": "Test",
+        "phone": 6285210991638,
+        "session_id": "bot_69494f3f7bf94_1766412095",
+        "status": "active",
+        "qr_code": null,
+        "webhook_url": null,
+        "auto_reply": true,
+        "created_at": "2025-12-22 21:01:35",
+        "updated_at": "2025-12-23 14:50:55"
+    }
+]
