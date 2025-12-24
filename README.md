@@ -1,12 +1,19 @@
 # TestBot
 
-## Installation
+### Flow Kerja (Contoh):
+1. User mengirim pesan "halo" di WhatsApp Desktop
+2. Trigger webhook untuk memberitahu bot ada pesan masuk
+3. Bot membaca pesan dari `incoming_messages.json`
+4. Bot mencocokkan dengan trigger di `auto_replies.json`
+5. Jika cocok, bot kirim balasan melalui WhatsApp Desktop
+6. WhatsApp Desktop terbuka otomatis dengan pesan siap kirim
 
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/testbot.git
 cd testbot
-````
+```
 ## Structure
 ```bash
 TestBot/
